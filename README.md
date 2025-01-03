@@ -4,6 +4,8 @@ This project provides a minimal implementation of the [React Native Community Te
 
 Currently, integrating the Meta Spatial SDK with React Native can be challenging. This starter template aims to simplify the process and save you some hassle.
 
+![QuestDemo.gif](QuestDemo.gif)
+
 --- 
 
 ## How to Run
